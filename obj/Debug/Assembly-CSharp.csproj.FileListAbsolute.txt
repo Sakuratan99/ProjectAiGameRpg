@@ -1,0 +1,2 @@
+D:\semester 5\Ai game\Game\RPG\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\semester 5\Ai game\Game\RPG\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
